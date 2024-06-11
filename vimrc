@@ -20,6 +20,7 @@ Bundle 'fholgado/minibufexpl.vim'
 "Bundle 'Valloric/YouCompleteMe'
 Bundle 'wesleyche/SrcExpl'
 Bundle 'scrooloose/nerdcommenter'
+Plugin 'fcpg/vim-osc52'
 
 if has('nvim')
   Plugin 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
