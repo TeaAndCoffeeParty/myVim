@@ -67,6 +67,7 @@ set shiftwidth=4
 " set expandtab
 set autoindent
 set hlsearch
+set t_RV=
 "set tag=/home/chen/Documents/kernel/linux-source-4.15.0/tags
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " airline 
